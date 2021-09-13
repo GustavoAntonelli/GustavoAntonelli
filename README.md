@@ -10,7 +10,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoAntonelli&show_icons=true&theme=danger&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoAntonelli&layout=compact&langs_count=7&theme=danger"/>
 </div>
+ 
   <div style="display: inline_block"><br>
+   
   <img align="center" alt="Gu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gu-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="Gu-BootStrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
@@ -18,6 +20,7 @@
   <img align="center" alt="Gu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gu-Jquery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
   <img align="right" alt="Rafa-yoda" height="150" width="250" src="https://rollingstone.uol.com.br/media/_versions/img-1026415-wolverine1_widelg.jpg">
+   
  </div>
  
   ##
