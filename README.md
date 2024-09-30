@@ -1,9 +1,8 @@
 ### Hi there 👋 I'm Gustavo Antonelli
 
 - 🔭 Today I'm working with Full Stack
-- 🌱 Still studying Full Stack(HTML, CSS, BOOTSTRAP, JAVASCRIPT, JQUERY, NODE, ANGULAR 12)
+- 🌱 Still studying Full Stack(HTML, CSS, JAVASCRIPT, TYPESCRIPT, NODE, ANGULAR 12)
 - 📫 How to reach me: gustavoantonellisouza87@gmail.com
-- 😄 Pronouns: ele/dele
 
  <div>
   <a href="https://github.com/GustavoAntonelli">
